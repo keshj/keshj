@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @keshawa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ....
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there 👋
+I'm a 2nd-year Electronics and Telecommunication Engineering undergraduate from the University of Moratuwa, Sri Lanka.  
+- 🔭 I’m currently working on robotics and machine learning projects.
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/keshawa-jayasundara-418959235) | [Email](keshawa36@gmail.com)
+
 
 <!---
 keshj/keshj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
