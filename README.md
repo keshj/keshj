@@ -5,13 +5,14 @@ I'm a 2nd-year Electronics and Telecommunication Engineering undergraduate from 
    I've worked on projects in:
    - Analog Electronics
    - Robotics
+   - Machine Learning, Deep Learning and Machine Vision
    - Leisure-time Python projects (check them out in my repositories!)
 
 - 💻 **Coding Skills**:  
    - Languages: Python, C++
 
 - 🌱 **Interests**:  
-   Robotics, Machine Learning.
+   Robotics, Machine Learning, Deep Learning
 
 - 📫 **Connect with me**:  
    - [LinkedIn](https://www.linkedin.com/in/your-profile/)  
