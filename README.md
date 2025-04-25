@@ -6,7 +6,6 @@ I'm a 2nd-year Electronics and Telecommunication Engineering undergraduate from 
    - Analog Electronics
    - Robotics
    - Machine Learning, Deep Learning and Machine Vision
-   - Leisure-time Python projects (check them out in my repositories!)
 
 - 💻 **Coding Skills**:  
    - Languages: Python, C++
