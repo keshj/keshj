@@ -8,7 +8,7 @@ I'm a 2nd year Electronic and Telecommunication Engineering undergraduate from t
    - Machine Learning, Deep Learning and Machine Vision
 
 - 💻 **Coding Skills**:  
-   - Languages: Python, C++
+   - Languages: Python, C++, Java
 
 - 🌱 **Interests**:  
    Robotics, Machine Learning, Deep Learning
