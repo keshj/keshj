@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm a 2nd-year Electronics and Telecommunication Engineering undergraduate from the University of Moratuwa, Sri Lanka.  
+I'm a 2nd year Electronic and Telecommunication Engineering undergraduate from the University of Moratuwa, Sri Lanka.  
 
 - 🔭 **Projects**:  
    I've worked on projects in:
