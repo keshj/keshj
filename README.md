@@ -1,7 +1,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Keshawa Jayasundara</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=NaveenSanjaya&label=Profile%20views&color=0e75b6&style=flat" alt="Keshawa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Keshawa&label=Profile%20views&color=0e75b6&style=flat" alt="Keshawa" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -27,13 +27,13 @@ I’m Keshawa Jayasundara, an Electronic and Telecommunication Engineering under
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=NaveenSanjaya&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Keshawa&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenSanjaya&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Keshawa&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NaveenSanjaya&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Keshawa&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
