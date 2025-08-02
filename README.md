@@ -53,7 +53,7 @@ I’m Keshawa Jayasundara, an Electronic and Telecommunication Engineering under
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-<a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer"> <img src="https://github.com/NaveenSanjaya/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/RaspberryPi-Dark.svg" alt="bootstrap" width="50" height="50"/> </a> 
+
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> 
